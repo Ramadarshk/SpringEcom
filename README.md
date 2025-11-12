@@ -302,7 +302,7 @@ npm run preview  # Preview production build
 ## 🐛 Troubleshooting
 
 ### Backend Issues
-- **Port 8080 already in use**: Change the port in `application.properties` using `server.port=8081`
+- **Port 8080 already in use**: Change the port in `application.properties` using `server.port=8081 or try another ports availble` 
 - **Database errors**: Clear the H2 database by restarting the application
 
 ### Frontend Issues
